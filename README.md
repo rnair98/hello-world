@@ -1,7 +1,7 @@
 # hello-world
-Commencing a decade-long venture through an ever-expanding sea of knowledge
+Commencing a decade-long venture through an ever-expanding sea of knowledge. (Skill: Attempts to repurpose a cliche - Check)
 
-Hey,
+Hi Reader,
 
 Considering that this is the first legitimate post I decided to put on Github in 2 years, I'll try to pen a nice, succinct intro.
 
